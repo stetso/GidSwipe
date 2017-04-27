@@ -16,5 +16,3 @@ end
 ```
 
 Thats it! There are currently 3 options to be set with GidSwipe.setOption() - check out the description in the GidSwipe.lua file.
-
-Feedback and suggestions are welcome!
