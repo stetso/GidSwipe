@@ -30,7 +30,7 @@
 	
 	LICENSE:
 		This software is distributed under the terms of the MIT LICENSE
-		Copyright (c) 2017 Eric Stets
+		Copyright (c) 2017 Stetso
 		Permission is hereby granted, free of charge, to any person obtaining a
 		copy of this software and associated documentation files (the
 		"Software"), to deal in the Software without restriction, including
