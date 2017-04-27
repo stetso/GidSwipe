@@ -1,0 +1,9 @@
+<project>
+ <properties app_name="" winrt_org="GiderosMobile" osx_org="GiderosMobile" architecture="0" backgroundColor="#ffffff" autorotation="0" ios_bundle="com.yourdomain." retinaDisplay="0" winrt_package="com.yourdomain.yourapp" logicalHeight="480" version="1.0" packageName="com.yourdomain.yourapp" mouseToTouch="1" encryptCode="0" orientation="0" disableSplash="0" osx_bundle="com.yourdomain." tv_icon="" scaleMode="3" build_number="1" logicalWidth="320" app_icon="" android_template="0" splash_v_image="" version_code="1" osx_domain="giderosmobile.com" iosDevice="0" splash_h_image="" exportMode="0" html5_mem="256" touchToMouse="1" win_org="GiderosMobile" osx_category="5" windowHeight="0" fps="60" win_domain="giderosmobile.com" encryptAssets="0" mouseTouchOrder="0" windowWidth="0" html5_host="">
+  <imageScales/>
+  <plugins/>
+  <exports/>
+ </properties>
+ <file source="GidSwipe.lua"/>
+ <file source="main.lua"/>
+</project>
